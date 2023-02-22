@@ -7,7 +7,7 @@
       </div>
       <div class="message" v-else>
         <img src="@/assets/img/sorry.svg" alt="">
-        <p>We're very that you didn't poop...</p>
+        <p>We're very sorry that you didn't poop...</p>
       </div>
     </div>
   </div>
